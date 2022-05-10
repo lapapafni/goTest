@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	app()
+	app(":5000")
 }
